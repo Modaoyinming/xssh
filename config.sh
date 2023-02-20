@@ -1,1 +1,1 @@
-NGROK_TOKEN="2LzhmpvxweT0lkh8hoGTgXuwRIE_6k3Q1YQCcrhBfm42bGxkX"
+NGROK_TOKEN=""
